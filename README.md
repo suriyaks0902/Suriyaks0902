@@ -22,19 +22,34 @@
 
 ---
 
-### 🚀 What I'm Working On
-- 🤖 RL + Thruster-Assisted Bipedal Locomotion on Cassie (MuJoCo)
-- 🧠 LLM-powered Robotics Agent for Sim-to-Real Transfer
-- 🌍 Seismic Risk AI Visualization Dashboard w/ Population Overlays
-- 🎙️ AI Assistant: Local LLM + Emotional SSML TTS + Jarvis-Alfred Vibes
+## 🚀 What I'm Working On
+
+<table>
+  <tr>
+    <td>🤖</td>
+    <td><strong>RL + Thruster-Assisted Bipedal Locomotion on Cassie (MuJoCo)</strong><br><em>Learning to jump, dodge & move like a machine-augmented athlete</em></td>
+  </tr>
+  <tr>
+    <td>🧠</td>
+    <td><strong>LLM-powered Robotics Agent for Sim-to-Real Transfer</strong><br><em>Action planning via language + perception with grounded control</em></td>
+  </tr>
+  <tr>
+    <td>🌍</td>
+    <td><strong>Seismic Risk AI Visualization Dashboard</strong><br><em>Population overlays + shaking radii from real-time USGS events</em></td>
+  </tr>
+</table>
 
 ---
 
-### 🧠 Core Skills
-- 🔍 3D Computer Vision (SfM, SLAM, Pose Estimation, Stereopsis)
-- 🤖 Reinforcement Learning (HRL, PPO, SAC, Waypoint Navigation)
-- 🛠️ Robotics Middleware (ROS2, RTK-GPS, IMU Sensor Fusion)
-- 🧩 ML Tooling: PyTorch Lightning, TensorRT, ONNX, WandB
+## 🧠 Core Skills
+
+| Skill | Description |
+|-------|-------------|
+| 🛰️ 3D Vision | SfM, SLAM, Pose Estimation, Stereo Pipelines |
+| 🧠 RL Systems | PPO, SAC, HRL, Waypoint Navigation |
+| ⚙️ Robotics Middleware | ROS2, RTK-GPS, Sensor Fusion, Real-Time Sync |
+| 🧪 ML Tooling | PyTorch Lightning, ONNX, TensorRT, WandB |
+
 ---
 
 ### 💬 Let's Connect
